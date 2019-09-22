@@ -2,10 +2,10 @@ PAD_WORD = "_PAD"  # 填充句子的字符
 NOT_DEFINED_WORD = "_NDW"  # 词汇表中未出现的单词
 START_WORD = "_GO"  # 一句话的起始的单词
 END_WORD = "_END"  # 一句话的结束的单词
-PAD_WORD_ID = 0
-NOT_DEFINED_WORD_ID = 1
-START_WORD_ID = 2
-END_WORD_ID = 3
+PAD_WORD_ID = 0  #
+NOT_DEFINED_WORD_ID = 1  #
+START_WORD_ID = 2  #
+END_WORD_ID = 3  #
 
 VOCABULARY_COUNT = 4700  # 词汇表大小 18000 4700
 DATASET_LENGTH = 512  # 数据集大小 10000 512
